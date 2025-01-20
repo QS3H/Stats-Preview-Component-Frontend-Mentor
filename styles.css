@@ -109,8 +109,8 @@ main {
   top: 0;
   left: 0;
   background-color: var(--clr-secondary-accent);
-  opacity: 75%;
-  mix-blend-mode: multiply;
+  opacity: 0.75;
+  /* mix-blend-mode: multiply; */
 }
 
 .stats {
