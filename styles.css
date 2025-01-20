@@ -59,7 +59,7 @@ main {
   border-radius: 8px;
   overflow: hidden;
   margin: 2rem;
-  gap: 2rem;
+  gap: 3rem;
 }
 
 .stats-preview-card h1 {
@@ -109,7 +109,8 @@ main {
   top: 0;
   left: 0;
   background-color: var(--clr-secondary-accent);
-  opacity: 0.75;
+  mix-blend-mode: multiply;
+  opacity: 75%.11;
 }
 
 .stats {
