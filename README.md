@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution on Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Stats Card Component](https://your-live-site-url.com)
+- Live Site URL: [Stats Card Component](https://qs3h.github.io/Stats-Preview-Component-Frontend-Mentor/)
 
 ## My process
 
