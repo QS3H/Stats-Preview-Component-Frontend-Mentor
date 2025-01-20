@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution on Frontend Mentor](https://your-solution-url.com)
+- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-component-with-css-grid-RK6fujVSqk)
 - Live Site URL: [Stats Card Component](https://qs3h.github.io/Stats-Preview-Component-Frontend-Mentor/)
 
 ## My process
